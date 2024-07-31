@@ -1,4 +1,4 @@
-# Translingo
+# Translingo ![TransLingo](public/icon.avif)
 
 Translingo is an advanced app for real-time language translation and transcription. It allows users to translate text and speech, transcribe audio, copy transcriptions, and download them. You can also choose from a variety of languages for translation.
 
